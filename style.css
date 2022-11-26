@@ -2,6 +2,9 @@
   background-color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
+.logo-img{
+  height: 50px;
+}
 .jumbotron{
   text-align: center;
   background-image: url(https://images6.alphacoders.com/549/549198.jpg);
@@ -29,105 +32,3 @@ margin: 0 auto;
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   
 }
-/*
-.bikes-img{
-  height: auto;
-  width: auto;
-}
-/* 
-body{
-  margin: 0;
-  padding: 0;
-  font-size: 15px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-header{
-  width: 100%;
-  height: 80px;  
-  text-shadow: 40px;
-  background-color: #000;  
-}
-.nav-top-section{
-  height: auto;
-  list-style-type: none;
-  display: inline;
-  position: relative;
-  }
-
-.nav-top-section img{
-  height: 50px;
-  width: 125px;
-  float: left;
-  margin-right: 75px;
-  margin-left: 20px;
-}
-.nav-top-section li{
-display: inline;
-float: center;
-margin-top: 10px;
-}
-
-.nav-top-section a{
-  text-decoration: none;
-  cursor: pointer;
-  color: rgb(255, 255, 255);
-  }
-
-
-.nav-top-section input{
-  float: right;
-  margin-right: 20px;
-  height: 20px;
-  margin-bottom: 60px;
-}
-
-
-main{
-  margin-top: 0;
-  text-align: center;
-  background-image: url(https://thumbs.dreamstime.com/b/panoramic-views-mountain-road-city-budva-coast-mon-sunlight-montenegro-60467997.jpg);
-  
-}
-
-.main-logo{
-  width: 500px;
-  margin: 0 auto;
-  margin-bottom: 35px;
-  
-}
-.main-logo img{
-  width:500px;
-  height: 300px;
-  margin-top: 20px;
-}
-
-.main-input{
-  width: 250px;
-  margin: 0 auto 5px auto;
-}
-.main-input-container{
-  width: 250px;
-  border-radius: 100px;
-  border: 1px solid;
-}
-.main-input input{
-  width: 245px;
-  border: none;
-  outline: none;
-  display: inline-block;
-  border-radius: 100px;
-
-}
-
-.main-input-container:hover{
-  box-shadow: 0 1px 6px 0 rgb(0, 0, 0);
-  border-color: rgba(21, 4, 4, 0.31);
-}
-
-.btn-light{
-  margin-bottom: 10px;
-
- 
-}
-*/
